@@ -1,4 +1,4 @@
-<h3 align="center"><img src="Centeum.png" alt="logo" height="250px"></h3>
+<h3 align="center"><img src="IMG_0760.png" alt="logo" height="250px"></h3>
 
 <p align="center">
     <b>Bucket WSGI</b><br>
